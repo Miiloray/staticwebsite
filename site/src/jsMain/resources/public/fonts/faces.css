@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: 'fantasy';
+    /*noinspection CssUnknownTarget*/
+    src: url("/fonts/fantasy-webfont.ttf");
+}
+
+@font-face {
+    font-family: 'Tahoma';
+    /*noinspection CssUnknownTarget*/
+    src: url("/fonts/Tahoma.ttf");
+}
+
+@font-face {
+    font-family: 'Monospaced';
+    /*noinspection CssUnknownTarget*/
+    src: url("/fonts/Monospaced.ttf");
+}
+
+@font-face {
+    font-family: "Grestal";
+    src: url('/fonts/fonts/GrestalScriptDemoRegular-dBYX.ttf');
+}
+
+
+
+/*
+@font-face {
+    font-family: Grestal;
+    src: url('/fonts/grestal.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HappySwirly-KVB7l';
+    src: url('/fonts/HappySwirly-KVB7l.ttf') format('truetype');
+}
+@font-face {
+    font-family: Arial;
+}*/
